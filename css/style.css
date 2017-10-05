@@ -1,0 +1,27 @@
+html{
+	font-family: Verdana;
+	background-color: Black;
+	text-align: center;
+}
+h1{
+  font-weight: Normal
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+.link_page{
+	color: Aquamarine;
+	font-size: 16px;
+}
+h2{
+	font-weight: 300;
+	font-size: 42px;
+	color: White;
+}
+p{
+	font-size: 21px;
+	color: Gray;
+}
+.details{
+	text-align: Right;
+}
